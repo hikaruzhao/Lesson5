@@ -86,7 +86,7 @@ body {
 }
 
 .page-shell {
-  width: min(100%, 520px);
+  width: min(100%, 480px);
   position: relative;
   z-index: 1;
 }
