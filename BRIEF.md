@@ -21,7 +21,7 @@ I want to send people here from my social profiles.
 Display these as stacked buttons, full-width within the card:
 - Painting (https://www.hikarucho.com/)
 - Portfolio (https://hikarucreate.com/)
-- LinkedIn (https://www.instagram.com/hikaru_cho/)
+- Instagram (https://www.instagram.com/hikaru_cho/)
 - Email (hikarucho@gmail.com)
 
 ## Nice to have
